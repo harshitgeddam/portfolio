@@ -42,7 +42,7 @@ function Resume() {
               ]}
             />
             <Resumecontent
-              title="Incentive Compensation Analyst, Oracle, India"
+              title="Data Analyst, Oracle, India"
               date="July 2018 - July 2019"
               content={[
                 "Optimized report generation for various clients by designing personalized parameters and using advanced SQL queries in  Oracle BI. Reduced redundancy in the number of reports by 65%.",
@@ -51,13 +51,12 @@ function Resume() {
               ]}
             />
             <Resumecontent
-              title="Application Developer Intern| Electronics Corporation of India Limited (ECIL) INDIA"
+              title="Data Analyst Intern| Electronics Corporation of India Limited (ECIL) INDIA"
               date="April-2017 to July-2017"
               content={[
-                "Productionalized a line of business module for a local police department application using service-oriented architecture.",
-                "Automated premium verification process by building a crime record management system (C++), thereby reducing manual work by 18 hrs./week.",
-                "Deployed features like user registration, multi-user login, complaints submission, status on previous crime, reading news by building out a database and user interface to promote utility and usability"
-              ]}
+                "Analyzed requirements and developed the data models (Conceptual, Logical and Physical), schema designs (Star and Snowflake) and loaded it into databases (Oracle) using Informatica as ETL tool and Erwin as Data Modeler.",
+                "Designed and developed business intelligence dashboards, analytical reports and data visualizations using Tableau by creating multiple measures using LOD expressions for different user groups, operations and finance team needs.",
+                "Cleaned unstructured data by processing the data using Python Pandas and NumPy, developed database objects, including tables, views, and materialized views to store data in a structured format using Oracle SQL."
             />
           </Col>
           <Col md={6} className="resume-right">
