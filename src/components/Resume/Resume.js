@@ -57,6 +57,7 @@ function Resume() {
                 "Analyzed requirements and developed the data models (Conceptual, Logical and Physical), schema designs (Star and Snowflake) and loaded it into databases (Oracle) using Informatica as ETL tool and Erwin as Data Modeler.",
                 "Designed and developed business intelligence dashboards, analytical reports and data visualizations using Tableau by creating multiple measures using LOD expressions for different user groups, operations and finance team needs.",
                 "Cleaned unstructured data by processing the data using Python Pandas and NumPy, developed database objects, including tables, views, and materialized views to store data in a structured format using Oracle SQL."
+              ]}
             />
           </Col>
           <Col md={6} className="resume-right">
